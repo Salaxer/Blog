@@ -1,26 +1,24 @@
 body
 {
     color: #333;
-    text-align: center;
     font-family: "Arial";
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
-#cabecera{
+.cabecera{
     border-radius: 30px;
     border: 2px solid gray;
     margin: 20px 20px 50px 20px;
     -webkit-box-shadow: 11px 10px 47px -1px rgba(0,0,0,0.75);
--moz-box-shadow: 11px 10px 47px -1px rgba(0,0,0,0.75);
-box-shadow: 11px 10px 47px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 11px 10px 47px -1px rgba(0,0,0,0.75);
+    box-shadow: 11px 10px 47px -1px rgba(0,0,0,0.75);
 }
-#cabecera p{
+.cabecera p{
     font-size: 25px;
     font-weight: bold;
-    
 }
-#container
+.container
 {
     width: 70%;
     padding: 1em;
@@ -29,7 +27,19 @@ box-shadow: 11px 10px 47px -1px rgba(0,0,0,0.75);
     margin: 0 auto;
 }
 
-#container h1
+.container h1
 {
     font-size: 20px;
+}
+.Footer{
+    margin: 0 auto;
+    background-color: #8a8585;
+    width: 70%;
+    padding-left: 1em;
+    padding-right: 1em;
+    text-align: center;
+}
+.Footer p{
+    padding: 10px;
+    margin: 0;
 }
