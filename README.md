@@ -15,11 +15,11 @@ npm install sala-xer -g
 
 <p align="center">
     <a href="https://Salaxer.com" target="_blank" rel="noopener noreferrer">Salaxer.com</a> |
-    <a href="https://web.facebook.com/Salaxer/" target="_blank" rel="noopener noreferrer">Facebook</a>
-    <a href="https://twitter.com/Salaxer1" target="_blank" rel="noopener noreferrer">Twitter</a>
-    <a href="https://github.com/Salaxer" target="_blank" rel="noopener noreferrer">GitHub</a>
-    <a href="https://www.instagram.com/salaxer1/" target="_blank" rel="noopener noreferrer">Instagram</a>
-    <a href="https://www.linkedin.com/in/hector-salazar-b409701a4/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-    <a href="mailto:contact@salaxer.com">email</a>
+    <a href="https://web.facebook.com/Salaxer/" target="_blank" rel="noopener noreferrer">Facebook</a> |
+    <a href="https://twitter.com/Salaxer1" target="_blank" rel="noopener noreferrer">Twitter</a> |
+    <a href="https://github.com/Salaxer" target="_blank" rel="noopener noreferrer">GitHub</a> |
+    <a href="https://www.instagram.com/salaxer1/" target="_blank" rel="noopener noreferrer">Instagram</a> |
+    <a href="https://www.linkedin.com/in/hector-salazar-b409701a4/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
+    <a href="mailto:contact@salaxer.com">email</a> |
     <a href="tel:+527775073272">phone</a>
 </p>
