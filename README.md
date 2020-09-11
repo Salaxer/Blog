@@ -5,6 +5,7 @@ Visita mi pagina **[Salaxer](https://salaxer.com)**
 Aqui podras encotrar todo tipo de lujurias, **Ja** mentira, solo encuentras una pagina en blanco, bueno , proximamente estare subindo mi portafolio asi como una serie de pagina mas
 &nbsp;
 * Creado por salaxer
+* Super facil de visualizar
 &nbsp;
 
 ## Quickstart Install
