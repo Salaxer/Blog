@@ -6,6 +6,7 @@ Aqui podras encotrar todo tipo de lujurias, **Ja** mentira, solo encuentras una 
 &nbsp;
 * Creado por salaxer
 * Super facil de visualizar
+* Disponoble para todas las edades
 &nbsp;
 
 ## Quickstart Install
