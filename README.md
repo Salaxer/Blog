@@ -4,6 +4,8 @@ Este es un blog de prueba para adentrarme en el mundo de GIt
 Visita mi pagina **[Salaxer](https://salaxer.com)**
 Aqui podras encotrar todo tipo de lujurias, **Ja** mentira, solo encuentras una pagina en blanco, bueno , proximamente estare subindo mi portafolio asi como una serie de pagina mas
 &nbsp;
+* Creado por salaxer
+&nbsp;
 
 ## Quickstart Install
 
